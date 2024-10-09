@@ -7,3 +7,20 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  p {
+    font-size: 24px;
+    color: rgb(121, 28, 163);
+    border: 30px dotted rgb(98, 26, 142);
+    padding: 40px;
+    border-radius: inline-block;
+    display: inline-block;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 50px;
+    padding: 50px;
+    text-align: center;
+    color: rgb(46, 149, 126)
+  }
