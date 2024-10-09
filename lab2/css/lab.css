@@ -10,8 +10,8 @@
 
   p {
     font-size: 24px;
-    color: rgb(121, 28, 163);
-    border: 30px dotted rgb(98, 26, 142);
+    color: rgb(119, 80, 0);
+    border: 30px dotted rgb(30, 80, 37);
     padding: 40px;
     border-radius: inline-block;
     display: inline-block;
@@ -29,5 +29,4 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
   }
