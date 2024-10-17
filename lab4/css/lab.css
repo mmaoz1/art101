@@ -4,6 +4,15 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #ce6161d5;
+    background-color: #d8c8363c;
+    font-size: 15px;
+    font-family: fantasy;
+
   }
+
+
+pre, code {
+  font-size: 15px;
+  font-family: fantasy;
+}

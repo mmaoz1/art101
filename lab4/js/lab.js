@@ -1,6 +1,6 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Rock-Paper-Scissors
+// Matan Maoz
+// Date: October 17th 2024
 
 // Constants
 
@@ -19,3 +19,10 @@ function main() {
 
 // let's get this party started
 main();
+
+// Print options on screen before each turn (rock, paper, and scissors)
+// Accept user input
+// Validate user input
+// Choose computer move
+// Display user and computer moves on screen
+// Test of win or draw condition
