@@ -5,5 +5,14 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #DDD8C4;
+    background-color: #f6e9e9;
+  }
+
+  #img-box {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
   }
