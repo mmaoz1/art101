@@ -1,0 +1,14 @@
+/* Add this to your css/lab.css or ../css/site.css */
+.special {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.highlight {
+  border: 2px solid red;
+  padding: 10px;
+}
+
+.visible {
+  display: block;
+}
